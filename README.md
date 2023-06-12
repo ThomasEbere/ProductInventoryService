@@ -1,0 +1,1 @@
+# This is a product inventory service to manage your store invenytory, with this application you can add new inventory, update inventory count and price and can delete inventory too. This inventory service is built using Java, Springbooth,spring JPA, dialect- MySql, html and css
